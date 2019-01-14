@@ -1,0 +1,21 @@
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\bin\Debug\WebScrap.exe.config
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\bin\Debug\WebScrap.exe
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\bin\Debug\WebScrap.pdb
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\bin\Debug\WebDriver.dll
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\bin\Debug\WebDriver.Support.dll
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\bin\Debug\WebDriver.xml
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\bin\Debug\WebDriver.Support.xml
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\obj\Debug\WebScrap.exe
+c:\users\atstudent\documents\visual studio 2015\Projects\WebScrap\WebScrap\obj\Debug\WebScrap.pdb
+C:\Users\chill\Downloads\WebScrap\WebScrap\bin\Debug\WebScrap.exe.config
+C:\Users\chill\Downloads\WebScrap\WebScrap\bin\Debug\WebScrap.exe
+C:\Users\chill\Downloads\WebScrap\WebScrap\bin\Debug\WebScrap.pdb
+C:\Users\chill\Downloads\WebScrap\WebScrap\bin\Debug\WebDriver.dll
+C:\Users\chill\Downloads\WebScrap\WebScrap\bin\Debug\WebDriver.Support.dll
+C:\Users\chill\Downloads\WebScrap\WebScrap\bin\Debug\WebDriver.xml
+C:\Users\chill\Downloads\WebScrap\WebScrap\bin\Debug\WebDriver.Support.xml
+C:\Users\chill\Downloads\WebScrap\WebScrap\obj\Debug\WebScrap.csprojAssemblyReference.cache
+C:\Users\chill\Downloads\WebScrap\WebScrap\obj\Debug\WebScrap.csproj.CoreCompileInputs.cache
+C:\Users\chill\Downloads\WebScrap\WebScrap\obj\Debug\WebScrap.csproj.CopyComplete
+C:\Users\chill\Downloads\WebScrap\WebScrap\obj\Debug\WebScrap.exe
+C:\Users\chill\Downloads\WebScrap\WebScrap\obj\Debug\WebScrap.pdb
